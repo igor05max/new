@@ -6,5 +6,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi("12345")
+    print("2000")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
